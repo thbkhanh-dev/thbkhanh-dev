@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thai Hoang Bao Khanh</h1>
 <h3 align="center">A passionate frontend developer from Vietnam.</h3>
 
-- 📫 How to reach me **khanh.thaihoangbao.dev@gmail.com**
+- 📫 How to reach me
+- **khanh.thaihoangbao.dev@gmail.com**
+- **https://www.facebook.com/baokhanh.thbk/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
